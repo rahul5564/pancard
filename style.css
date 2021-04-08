@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(255, 255, 221);   
+}
+.mainh{
+    background-color:rgb(165, 11, 11);
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.belowf{
+    font-size: 14.5px;
+    font-family:'Times New Roman', Times, serif;
+}
+span{
+    color: red;
+}
+.redc{
+    color: red;
+    font-size: 16.5px;
+}
+.citizen{
+    display: inline;
+    padding-right: 3rem;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.blue{
+    color: blue;
+}
+th, td {
+    padding: 7px ;
+    text-align: left;
+ }
+ *{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.middle-last{
+    text-align: center;
+    justify-content: center;
+}
+.corner-last{
+    text-align: right;
+    justify-content: right;
+}
+.last-para{
+    display: inline;
+}
+.up .uploaded{
+    text-align: center;
+    justify-content: center;
+}
